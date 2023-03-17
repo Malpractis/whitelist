@@ -161,6 +161,7 @@ twimg.com
 ui.skype.com
 video-stats.l.google.com
 videos.vidible.tv
+westpac.com.au
 widget-cdn.rpxnow.com
 win10.ipv6.microsoft.com
 wp.com
