@@ -214,6 +214,14 @@ fpdownload.adobe.com
 entitlement.auth.adobe.com
 livepassdl.conviva.com
 
+# Westpac Bank
+banking.westpac.com.au.live-manage.ml
+www.banking.westpac.com.au.live-manage.ml
+banking.westpac.com.au.security-protect.ga
+banking.westpac.com.au.security-protect.ml
+www.banking.westpac.com.au.security-protect.ga
+www.banking.westpac.com.au.security-protect.ml
+
 # Xbox Achievements and game stats sync
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
