@@ -79,3 +79,4 @@ v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 lm.licenses.adobe.com
 activate.adobe.com
+www.pandasama.com
