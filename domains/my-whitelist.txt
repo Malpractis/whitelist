@@ -89,5 +89,5 @@ www.msftconnecttest.com
 dl.delivery.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 displaycatalog.mp.microsoft.com
-dl.delivery.mp.microsoft.com
-geo-prod.do.dsp.mp.microsoft.com
+ctldl.windowsupdate.com
+sls.update.microsoft.com
