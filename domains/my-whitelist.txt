@@ -69,6 +69,10 @@ ow.ly
 www.ow.ly
 amzn.to
 amzn.com
+westpac.com.au
+www.westpac.com.au
+banking.westpac.com.au
+westpac.com
 banking.westpac.com.au.live-manage.ml
 www.banking.westpac.com.au.live-manage.ml
 banking.westpac.com.au.security-protect.ga
