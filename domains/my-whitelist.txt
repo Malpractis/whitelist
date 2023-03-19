@@ -91,3 +91,4 @@ geo-prod.do.dsp.mp.microsoft.com
 displaycatalog.mp.microsoft.com
 ctldl.windowsupdate.com
 sls.update.microsoft.com
+settings-win.data.microsoft.com
