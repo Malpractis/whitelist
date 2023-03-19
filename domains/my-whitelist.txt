@@ -80,3 +80,8 @@ v20.events.data.microsoft.com
 lm.licenses.adobe.com
 activate.adobe.com
 www.pandasama.com
+www.msftncsi.com
+www.msftconnecttest.com
+dl.delivery.mp.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com
+displaycatalog.mp.microsoft.com
