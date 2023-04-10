@@ -92,3 +92,6 @@ displaycatalog.mp.microsoft.com
 ctldl.windowsupdate.com
 sls.update.microsoft.com
 settings-win.data.microsoft.com
+cdp.cloud.unity3d.com
+perf-events.cloud.unity3d.com
+config.uca.cloud.unity3d.com
